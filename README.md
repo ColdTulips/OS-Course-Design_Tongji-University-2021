@@ -2,13 +2,13 @@
 切换分支以查看不同实验的相关代码<br>
 | branch  |   Labx   |
 | ------- | -------- |
-| util    | lab01    |
-| syscall | lab02    |
-| pgtbl   | lab03    |
-| traps   | lab04    |
-| cow     | lab05    |
-| net     | lab06    |
-| thread  | lab07    |
-| locks   | lab08    |
-| fs      | lab09    |
-| mmap    | lab10    |
+| util    | Lab01    |
+| syscall | Lab02    |
+| pgtbl   | Lab03    |
+| traps   | Lab04    |
+| cow     | Lab05    |
+| net     | Lab06    |
+| thread  | Lab07    |
+| locks   | Lab08    |
+| fs      | Lab09    |
+| mmap    | Lab10    |
